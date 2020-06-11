@@ -11,7 +11,7 @@ See deployment for notes on how to deploy the project on a live system.
 
 Required Data/Code: 
 
-1. Our dataset is from Kaggle, uploaded two years ago with a set of 5,863 chest X-ray images. 
+1. Our dataset is from Kaggle (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), uploaded two years ago with a set of 5,863 chest X-ray images. 
 The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). 
 There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). This dataset is required for the all the jupyter notebooks within this repository 
 
